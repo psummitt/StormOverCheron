@@ -97,7 +97,7 @@ Schedule
 * Game – Quest for the Key of Nightshade, originally written in BASIC for either a Model I or Model III TRS80 computer by David Schmidt and published in the February 1983 issue of 80 Micro magazine. This was one of, if not the first, computer game I ever typed into a computer, debugged, and then played.  The experience taught me quite a bit about BASIC programming.
 ---
 ## The Elevator Pitch
-Storm over Cheron is a single player, sword and sorcery adventure game allowing players to fight against beasts, magical entities, monsters, and armies of the dead in their quest to free the true leader of Cheron, Queen Celeste.
+>Storm over Cheron is a single player, sword and sorcery adventure game allowing players to fight against beasts, magical entities, monsters, and armies of the dead in their quest to free the true leader of Cheron, Queen Celeste.
 ---
 ## Project Description (Brief)
 ---
