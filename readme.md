@@ -1,13 +1,13 @@
 # STORM OVER CHERON
 ## Paul M. Summitt
-
+---
 Revision: 0.0.1
-
+---
 ## Version History
 DATE        VERSION #       CHANGES
 ---
 20Jan2020   0.0.1           Began to form basic idea.
-
+---
 # STORM OVER CHERON
 ## Contents
 
@@ -47,10 +47,10 @@ Schedule
 2. Object #2
 3. Object #3
 4. Object #4
-
+---
 ## Overview
 
-## High Concept Statement
+**High Concept Statement**
 >STORM OF CHARON is a top-down 2D fantasy/adventure of the sword and sorcery genre that takes place in the world of Cheron.  The good Queen Celeste of Charon is being held captive at Table Rock Castle by the evil sorcerer/emperor Dominicon, who is currently ruling the world of Cheron.
   
 **Game Play**
@@ -66,17 +66,17 @@ Schedule
 
 **Monetization model**
 >Free.  Open Source.  This game is being built and designed as an experiment and learning experience for all those envolved.  Donations of support are not requested but will be greatfully accepted.
-
+---
 ## Project Scope 
-**Cost?**
+* Cost?
 > My time and the time of those who wish to volunteer to assist with this project
-**Time Scale**
+* Time Scale
 > Unknown at this point in time
-**Team Size**
-*Core Team*
->Paul M. Summitt
+* Team Size
+>*Core Team* - Paul M. Summitt
 * Retired
 * Volunteer
+---
 **Licenses / Hardware / Other Costs**
 * Licenses
 > Only open source software will be used in the development of this game
@@ -85,7 +85,7 @@ Schedule
 * Other Costs
 > Unknown at this point in time
 *Total Costs with breakdown*
-
+---
 ## Influences (Brief)
 * Influence #1
 > Literature – The Gor and Conan series of science fiction/fantasy books.  After Tarzan and Robinson Crusoe, these two series of books were a constant source of exploration for my teenage years.
