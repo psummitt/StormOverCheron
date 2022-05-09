@@ -51,7 +51,7 @@ Schedule
 ## Overview
 
 ### High Concept Statement
-	STORM OF CHARON is a top-down 2D fantasy/adventure of the sword and sorcery genre that takes place in the world of Cheron.  TheNext good Queen Celeste of Charon is being held captive at Table Rock Castle by the evil sorcerer/emperor Dominicon, who is currently ruling the world of Cheron.
+STORM OF CHARON is a top-down 2D fantasy/adventure of the sword and sorcery genre that takes place in the world of Cheron.  The good Queen Celeste of Charon is being held captive at Table Rock Castle by the evil sorcerer/emperor Dominicon, who is currently ruling the world of Cheron.
   
 ### Game Play
 The first goal of the game is for the player/adventurer to recruit and increaase the size and strength of his or her army.
@@ -70,8 +70,8 @@ Finally, after the player/adventurer has collected all five crowns, he or she ma
 ## Project Scope 
 	- <Game Time Scale>
 		- Cost? My time and the time of those who wish to volunteer to assist with this project
-- Time Scale: Unknown at this point in time
-- <Team Size>
+	- Time Scale: Unknown at this point in time
+	- <Team Size>
 	- <Core Team>
 		- Paul M. Summitt
 			- Retired
@@ -83,7 +83,7 @@ Finally, after the player/adventurer has collected all five crowns, he or she ma
     • Game will be designed and built on linux platforms
 		- Other Costs
     • Unknown at this point in time
-- <Total Costs with breakdown>
+	- <Total Costs with breakdown>
 
 ## Influences (Brief)
 ###	- <Influence #1>
