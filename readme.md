@@ -149,6 +149,8 @@ No more than six paragraphs
 * Required data
 >The playing field of Cheron is 50 x 50 units in size.  Each unit is on possible location where a player and any army that they might command may be located.  If a player moves continually to the West (left), or to the North (up), South (down), or East (right), they will leave that edge of the map and enter on the opposite edge of the map.  The center display shows the terrain for three units in any direction from the player’s position.  As the player moves in any direction, the player remains stationary and the terrain moves beneath the player’s location.  Landmarks such as rivers, lakes, mountain, caves, swamps, and deserts remain in the same location during each playing of the game.  Man-made objects, such as castles, towns, villages, graveyards, tombs, and tunnels will vary in location from one game instance to another.
 ## Character List
+* Player Character
+>The Player character is always centered in the map.  The arrow keys are used to move the player character North (up arrow key), South (down arrow key), East (right arrow key), or West (left arrow key) one hex at a time.
 * Queen Celeste - 
 >
 * Dominicon - 
