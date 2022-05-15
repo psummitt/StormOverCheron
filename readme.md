@@ -146,7 +146,7 @@ No more than six paragraphs
 * Display
 >The screen is divided into seven sections: header, left, upper right, lower right, middle, bottom status, and footer.  The header section is the uppermost section seen and displays the name of the game, version number, and copyright information.  The left section displays the player’s status such as type of armor, health, skill level, weaponry, and number of spells acquired and unused.  The upper right section displays the movement options available to the player and allows for the entry of game commands.  The lower right section displays a smaller version of the map showing the entire world with the sections of the planet discovered by the player revealed.  The middle and largest section of the display is the graphic map displaying the immediate area and terrain around the player’s center position.  The bottom status section is a communication area displaying warnings and other such necessary information as needed.  The footer section displays game status data such as total treasure accumulated and number of crowns collected.
 
-![Storm over Cheron Mockup](https://github.com/psummitt/StormOverCheron/Storm_Over_Cheron.png")
+![Storm over Cheron Mockup](https://github.com/psummitt/StormOverCheron/Storm_Over_Cheron.png)
 
 * Environment Textures
 * Required data
