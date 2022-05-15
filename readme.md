@@ -1,12 +1,6 @@
 # STORM OVER CHERON
 ## Paul M. Summitt
----
-Revision: 0.0.1
----
-## Version History
-DATE        VERSION #       CHANGES
----
-20Jan2020   0.0.1           Began to form basic idea.
+
 ---
 # STORM OVER CHERON
 ## Contents
