@@ -1,12 +1,6 @@
 # STORM OVER CHERON
 ## Paul M. Summitt
----
-Revision: 0.0.1
----
-## Version History
-DATE        VERSION #       CHANGES
----
-20Jan2020   0.0.1           Began to form basic idea.
+
 ---
 # STORM OVER CHERON
 ## Contents
@@ -146,11 +140,11 @@ No more than six paragraphs
 * Display
 >The screen is divided into seven sections: header, left, upper right, lower right, middle, bottom status, and footer.  The header section is the uppermost section seen and displays the name of the game, version number, and copyright information.  The left section displays the player’s status such as type of armor, health, skill level, weaponry, and number of spells acquired and unused.  The upper right section displays the movement options available to the player and allows for the entry of game commands.  The lower right section displays a smaller version of the map showing the entire world with the sections of the planet discovered by the player revealed.  The middle and largest section of the display is the graphic map displaying the immediate area and terrain around the player’s center position.  The bottom status section is a communication area displaying warnings and other such necessary information as needed.  The footer section displays game status data such as total treasure accumulated and number of crowns collected.
 
-![Image](."Storm Over Cheron.png")
+![Storm Over Cheron Mockup](Storm_Over_Sheron.png)
 
 * Environment Textures
 * Required data
->The playing field of Cheron is 50 x 50 units in size.  Each unit is on possible location where a player and any army that they might command may be located.  If a player moves continually to the West (left), or to the North (up), South (down), or East (right), they will leave that edge of the map and enter on the opposite edge of the map.  The center display shows the terrain for three units in any direction from the player’s position.  As the player moves in any direction, the player remains stationary and the terrain moves beneath the player’s location.  Landmarks such as rivers, lakes, mountain, caves, swamps, and deserts remain in the same location during each playing of the game.  Man-made objects, such as castles, towns, villages, graveyards, tombs, and tunnels will vary in location from one game instance to another.
+>The playing field of Cheron as seen in the World Map section is 500 x 500 units in size.  Each unit is on possible location where a player's character may be located.  If a player moves continually to the West (left), or to the North (up), South (down), or East (right), they will leave that edge of the map and enter on the opposite edge of the map.  The center display shows the terrain for three units in any direction from the player’s position.  As the player moves in any direction, the player remains stationary and the terrain moves beneath the player’s location.  Landmarks such as rivers, lakes, mountain, caves, swamps, and deserts remain in the same location during each playing of the game.  Man-made objects, such as castles, towns, villages, graveyards, tombs, and tunnels will vary in location from one game instance to another.
 ## Character List
 * Player Character
 >The Player character is always centered in the map.  The arrow keys are used to move the player character North (up arrow key), South (down arrow key), East (right arrow key), or West (left arrow key) one hex at a time.
