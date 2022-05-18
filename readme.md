@@ -145,15 +145,13 @@ No more than six paragraphs
 * Environment Textures
 * Required data
 >The playing field of Cheron as seen in the World Map section is 500 x 500 units in size.  Each unit is on possible location where a player's character may be located.  If a player moves continually to the West (left), or to the North (up), South (down), or East (right), they will leave that edge of the map and enter on the opposite edge of the map.  The center display shows the terrain for three units in any direction from the player’s position.  As the player moves in any direction, the player remains stationary and the terrain moves beneath the player’s location.  Landmarks such as rivers, lakes, mountain, caves, swamps, and deserts remain in the same location during each playing of the game.  Man-made objects, such as castles, towns, villages, graveyards, tombs, and tunnels will vary in location from one game instance to another.
-## Character List
+## Human Character List
 * Player Character
 >The Player character is always centered in the map.  The arrow keys are used to move the player character North (up arrow key), South (down arrow key), East (right arrow key), or West (left arrow key) one hex at a time.
 * Queen Celeste
 >During the reign of the good Queen Celeste’s father, Cheron prospered and its people were happy and prosperous. The Queen has been taken captive by the evil sorcerer Dominicon who has proclaimed himself Emperor of Cheron and demands that the Queen marry him.  She is being held captive in one of Dominicon's  castles guarded by Dominicon, his Demon Warriors, and their enslaved Dragons.
-* Dominicon - 
->
-* Humans
-> 
+* Dominicon
+>The evil sorcer Dominicon was once an advisor to Queen Celeste’s father, but turned on him and had the king killed in a coup-de-ta.  Dominicon the captured Celeste and used her as a figurehead while he gathered his forces and proclaimed himself emperor.  Dominicon has demanded that Celeste marry him to legitimize his powergrab.  Dominicon maintains himself in power with his army of Demon Warriors and their dragon slaves.
 * Nasai
 >Nasai are female warriors from the desert tribe of the Sai.  These females are human and are armed with a large hunting bow and a small sword.  The Nasai wears a cloak and has little or no armor.  Her Fighting Ability is 5 with the sword and 6 with the bow.  Nasai are known to individually approach a man seductively and then attack him with her sword when the player lets their guard down.  Nomadic by nature, Nasai travel either singly or in bands of up to twelve.  They live by piracy and are extremely dangerous but can be negotiated with.  Each Nasai carries a backpack filled with the treasures of those they have robbed and killed.
 ## Creature List
