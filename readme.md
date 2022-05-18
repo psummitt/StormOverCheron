@@ -148,8 +148,8 @@ No more than six paragraphs
 ## Character List
 * Player Character
 >The Player character is always centered in the map.  The arrow keys are used to move the player character North (up arrow key), South (down arrow key), East (right arrow key), or West (left arrow key) one hex at a time.
-* Queen Celeste - 
->
+* Queen Celeste
+>During the reign of the good Queen Celeste’s father, Cheron prospered and its people were happy and prosperous. The Queen has been taken captive by the evil sorcerer Dominicon who has proclaimed himself Emperor of Cheron and demands that the Queen marry him.  She is being held captive in one of Dominicon's  castles guarded by Dominicon, his Demon Warriors, and their enslaved Dragons.
 * Dominicon - 
 >
 * Humans
