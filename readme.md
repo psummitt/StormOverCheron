@@ -124,13 +124,18 @@ No more than six paragraphs
 ## Story and Gameplay
 **Story (Brief)**
 >The good Queen Celeste has been taken captive by the evil sorcerer Dominicon and he has set himself up as emperor.  He enforces his will on the people of Cheron through his army of Demon Warriors.  These Demon Warriors, and their enslaved dragons, also guard Queen Celeste at Dominicon’s fortress, Table Rock Castle.
+>
 >The player/adventurer starts off alone on their journey around the planet in search of gold, weapons, armor, and companions.  It is the player/adventurer’s goal to find the five crowns of Cheron, to attack Table Rock Castle, and to free Queen Celeste.  During this journey, the player/adventurer will meet and deal with other humans, wild animals, magical beasts, dragons, gremlins, and demons.
 ---
 **Story (Detailed)**
 >The planet-wide peace of Cheron has been shattered.  Monsters walk this once peaceful world.
+>
 >How did this happen?
+
 >In the not so distant past, Queen Celeste’s father, the Good King Richard, ruled Cheron.  One of King Richard’s advisors was a sorcerer named Dominicon.  King Richard was unaware that Dominicon was evil  and had his own plans for Cheron.
+
 >In a midnight coup-de-tat, Dominicon, with his armies of Demon Warriors and their enslaved dragons, swept through the capital city destroying King Richard’s army, kidnaping his daughter, the future Queen Celeste, and killing the King and his wife.  Celeste was wisked off to Dominicon’s fortress, Table Rock Castle, where she is being guarded by Demon Warriors and Dragons.
+
 >Dominicon has proclaimed himself Emperor of Cheron.  To solidify his position he has determined to make Queen Celeste his wife which Celeste has refused to respond to him up until this time.
 ---
 ## Gameplay (Brief)
