@@ -140,7 +140,7 @@ No more than six paragraphs
 
 >You, as the player, have determined that you will rescue Queen Celeste and free Cheron from the yoke of Domionicon’s rule.  You find yourself transported to someplace on Cheron with leather armor and a short sword.  You have enough food and water for three days and you have one health spell.
 
->You must strike out investigating the planet in search of riches, stronger weapons and armor, clues as to where the five crowns of Cheron can be found, and directions to Table Rock Castle.  During your quest you will meetand deal with other humans, wild animals, magical beasts, dragons, gremlins, and demons.  Only after you have found all five crowns and learned the location of the castle can you attempt to rescue Queen Celeste.
+>You must strike out investigating the planet in search of riches, stronger weapons and armor, clues as to where the five crowns of Cheron can be found, and directions to Table Rock Castle.  During your quest you will meet and deal with other humans, wild animals, magical beasts, dragons, gremlins, and demons.  Only after you have found all five crowns and learned the location of the castle can you attempt to rescue Queen Celeste.
 ---
 ## Gameplay (Brief)
 >The Summary version of below
