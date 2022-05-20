@@ -137,6 +137,10 @@ No more than six paragraphs
 >In a midnight coup-de-tat, Dominicon, with his armies of Demon Warriors and their enslaved dragons, swept through the capital city destroying King Richard’s army, kidnaping his daughter, the future Queen Celeste, and killing the King and his wife.  Celeste was wisked off to Dominicon’s fortress, Table Rock Castle, where she is being guarded by Demon Warriors and Dragons.
 
 >Dominicon has proclaimed himself Emperor of Cheron.  To solidify his position he has determined to make Queen Celeste his wife which Celeste has refused to respond to him up until this time.
+
+>You, as the player, have determined that you will rescue Queen Celeste and free Cheron from the yoke of Domionicon’s rule.  You find yourself transported to someplace on Cheron with leather armor and a short sword.  You have enough food and water for three days and you have one health spell.
+
+>You must strike out investigating the planet in search of riches, stronger weapons and armor, clues as to where the five crowns of Cheron can be found, and directions to Table Rock Castle.  During your quest you will meetand deal with other humans, wild animals, magical beasts, dragons, gremlins, and demons.  Only after you have found all five crowns and learned the location of the castle can you attempt to rescue Queen Celeste.
 ---
 ## Gameplay (Brief)
 >The Summary version of below
